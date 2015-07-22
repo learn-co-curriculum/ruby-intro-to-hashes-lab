@@ -3,7 +3,7 @@
 ## Objectives
 
 So far we've covered: 
-
+j
 * What hashes are and why we use them
 * How to build simple hashes
 * How to build nested hashes
