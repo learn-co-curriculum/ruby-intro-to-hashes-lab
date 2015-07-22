@@ -2,7 +2,7 @@
 
 ## Objectives
 
-So far we've covered: 
+So far we've covered: hh
 
 * What hashes are and why we use them
 * How to build simple hashes
