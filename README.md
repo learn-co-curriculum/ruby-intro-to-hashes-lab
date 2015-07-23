@@ -1,5 +1,5 @@
 # Intro to Hashes Lab
-
+asdf
 ## Objectives
 
 So far we've covered: 
