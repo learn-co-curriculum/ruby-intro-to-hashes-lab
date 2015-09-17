@@ -56,3 +56,4 @@ Remember to use `binding.pry` to help you get inside your methods and understand
 ## Resources
 1. [What is a Hash in Ruby?](http://ruby.about.com/od/rubyfeatures/a/hashes.htm)
 2. [Ruby Documentation on Hashes](http://ruby-doc.org/core-2.1.3/Hash.html)
+please ignore, just a test!
